@@ -1,4 +1,4 @@
-# bManagement
+# busManagement
 
 A Bus Management Program. 
 
