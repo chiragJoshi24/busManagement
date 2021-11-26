@@ -24,7 +24,7 @@ void a::install()
 	cout << "Enter bus no: ";
 	cin >> bus[p].busn;
 	cout << "\nEnter Driver's name: ";
-	cin >> bus[p].driver;
+	cin.getline(bus[p].driver);
 	cout << "\nArrival time: ";
 	cin >> bus[p].arrival;
 	cout << "\nDeparture: ";
